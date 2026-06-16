@@ -1,13 +1,5 @@
-# Thesis
-For this repo the following is the commit structure: 
-<type>(<scope>): <description>
+# Exploring a Continual Learning Approach for Algorithm Selection under Distribution Shift in the 0/1 Knapsack Problem
 
-[optional body]
-[optional footer]
+**Supervisor:** Dr. José Carlos Ortiz Bayliss
 
-Where:
-- type: is the type of the commit (feat, fix, docs, style, refactor, test, chore)
-- scope: is the scope of the commit (e.g. component, module, etc.)
-- description: is a short description of the commit
-- body: is a detailed description of the commit (optional)
-- footer: is a reference to the issue or breaking change (optional) 
+Progress made from February 24 to June 3 as an official part of the thesis.
