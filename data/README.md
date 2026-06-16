@@ -35,7 +35,8 @@ Plata-González et al. (2019):
 
 ## `processed/` — ETL outputs
 
-Produced by `ETL_KP_*.ipynb`. Currently under `etl_2026-02-25/`:
+Produced by the ETL notebook (`notebooks/01-etl-instances.ipynb`).
+Currently under `etl_2026-02-25/`:
 
 - `kp_features.csv` — one row per instance with engineered features (size,
   capacity ratio, weight/profit statistics, weight–profit correlation,

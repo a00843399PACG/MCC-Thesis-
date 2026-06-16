@@ -255,3 +255,10 @@ Icon\r
 *.swo
 # Editor backup files
 *~
+
+# Backup notebooks / files
+*.bak
+
+# Local-only notebooks: anything at the repo root stays local.
+# Notebooks meant for the repo live under notebooks/ and are tracked.
+/*.ipynb
